@@ -38,3 +38,12 @@ Install the required dependencies by running pip install -r requirements.txt.
 Run the face_verification.py script to launch the real-time face verification system.
 Contributing
 Contributions to the project are welcome! Feel free to fork the repository and submit pull requests with your enhancements or bug fixes.
+
+# References
+[1] "Labeled Faces in the Wild," University of Massachusetts, Amherst. Available: https://vis-www.cs.umass.edu/lfw/.
+
+[2] Hamdani, Nesrine & Bousahba, Nassima & Bousbai, Ahmed & Braikia, Amina. (2023). Face Detection and Recognition using Siamese Neural Network.
+
+
+# Team Members
+1). Shanmukeshwar Reddy Kanjula(sk11331) 2). Nathaniel Sehati(nys2021)
