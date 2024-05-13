@@ -46,4 +46,6 @@ Contributions to the project are welcome! Feel free to fork the repository and s
 
 
 # Team Members
-1). Shanmukeshwar Reddy Kanjula(sk11331) 2). Nathaniel Sehati(nys2021)
+1). Shanmukeshwar Reddy Kanjula(sk11331)
+
+2). Nathaniel Sehati(nys2021)
