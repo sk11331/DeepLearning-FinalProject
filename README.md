@@ -44,6 +44,8 @@ Contributions to the project are welcome! Feel free to fork the repository and s
 
 [2] Hamdani, Nesrine & Bousahba, Nassima & Bousbai, Ahmed & Braikia, Amina. (2023). Face Detection and Recognition using Siamese Neural Network.
 
+[3] Solomon, E.; Woubie, A.; and Emiru, E. S. 2024. DeepLearning Based Face Recognition Method using Siamese Network. arXiv preprint arXiv:2312.14001. Version 2.
+
 
 # Team Members
 1). Shanmukeshwar Reddy Kanjula(sk11331)
